@@ -15,7 +15,7 @@
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "test-jstransformer": "^1.0.2",
-    "xo": "*"
+    "xo": ">=0.25.1"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
